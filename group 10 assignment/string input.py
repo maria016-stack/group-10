@@ -1,0 +1,5 @@
+name=input("Enter your name:")
+print(name.upper())
+print(name.lower())
+print(name.count('m'))
+print(name.replace('c','g'))
